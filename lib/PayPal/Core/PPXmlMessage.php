@@ -112,7 +112,7 @@ abstract class PPXmlMessage
 		}
 
 		if (($first = reset($map)) && !is_array($first) && !is_numeric(key($map))) {
-			parent::init($map, $prefix);
+			self::init($map, $prefix);
 			return;
 		}
 
