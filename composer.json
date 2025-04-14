@@ -21,7 +21,8 @@
             "PayPal\\EBLBaseComponents": "lib/",
             "PayPal\\EnhancedDataTypes": "lib/",
             "PayPal\\PayPalAPI": "lib/",
-            "PayPal\\Core": "lib/"
+            "PayPal\\Core": "lib/",
+            "PayPal\\Common": "lib/"
         }
     }
 }
